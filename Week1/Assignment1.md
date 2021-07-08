@@ -28,4 +28,4 @@ source: https://www.bmc.com/blogs/what-is-aiops/
 source: https://christophm.github.io/interpretable-ml-book/
 
 
-<img src="">
+<img src="https://github.com/tushard018/Fundamentals_of_MLOps_190110099/blob/main/Week1/2021-07-08.png">
